@@ -1,0 +1,18 @@
+= Cheatsheets
+
+[[DummyObject]]
+== DummyObject
+
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[hp]]`hp`|`Number (int)`|-
+|[[id]]`id`|`String`|-
+|[[name]]`name`|`String`|-
+|[[stamina]]`stamina`|`Number (int)`|-
+|[[x]]`x`|`Number (int)`|-
+|[[y]]`y`|`Number (int)`|-
+|===
+
