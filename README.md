@@ -12,7 +12,7 @@ This project uses the following dependencies:
   
 ### References
 
-[mongo-client]: (http://vertx.io/docs/vertx-mongo-client/java/)
-[service-proxy]: (http://vertx.io/docs/vertx-service-proxy/java/)
-[service-factory]: (http://vertx.io/docs/vertx-service-factory/java/)
-[blueprint-material]: (https://github.com/sczyh30/vertx-blueprint-microservice)
+(http://vertx.io/docs/vertx-mongo-client/java/)
+(http://vertx.io/docs/vertx-service-proxy/java/)
+(http://vertx.io/docs/vertx-service-factory/java/)
+(https://github.com/sczyh30/vertx-blueprint-microservice)
